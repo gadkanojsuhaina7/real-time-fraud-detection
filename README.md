@@ -60,4 +60,4 @@ This project aims to build a real-time fraud detection system using Apache Kafka
 
 ## Author
 
-Sam Groenjes
+Suhaina Gadkanoj, Anika Gauhar
